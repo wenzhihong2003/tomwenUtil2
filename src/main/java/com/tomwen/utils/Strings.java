@@ -13,6 +13,13 @@ import java.util.regex.Pattern;
  *         .build();
  * </pre>
  * @return The formatted string.
+ *
+ * 这个程序来源于
+ * <dependency>
+ *      <groupId>com.joanzapata.utils</groupId>
+ *      <artifactId>string-format</artifactId>
+ *      <version>1.0.0</version>
+ * </dependency>
  */
 public class Strings {
     private Strings() {
